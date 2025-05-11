@@ -1,6 +1,6 @@
 # Wikifont
 ## Indice
-```
+
 1 Presentazione 2
 2 Applicazione 2
 2.1. Interfaccia dedicata alla scelta del font 3
@@ -12,7 +12,7 @@
 3.4. Comunicazione tra applicazione, server
 e database 8
 3.5. Unit test 9
-```
+
 ## 1 Presentazione
 
 Wikifont è un servizio che nasce con l’intento di facilitare la scelta dei font in
@@ -173,12 +173,12 @@ che hanno la seguente struttura:
 ```
 public class Font implements
 Serializable{
-public String family;
-public String version;
-public String lastModified;
-public String category;
-public String kind;
-public String menu;
+    public String family;
+    public String version;
+    public String lastModified;
+    public String category;
+    public String kind;
+    public String menu;
 /*
 * Costruttori, getter e setter
 */
@@ -187,9 +187,9 @@ public String menu;
 ```
 public class Variants implements
 Serializable{
-public String family;
-public String variant;
-public String link;
+    public String family;
+    public String variant;
+    public String link;
 /*
 * Costruttori, getter e setter
 */
