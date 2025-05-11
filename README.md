@@ -11,7 +11,7 @@
 3.3. Quantità di dati per il popolamento \
 3.4. Comunicazione tra applicazione, server
 e database \
-3.5. Unit test \
+3.5. Unit test
 
 ## 1 Presentazione
 
