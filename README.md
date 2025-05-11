@@ -82,7 +82,7 @@ possibile accedere alle seguenti funzionalità:
 - **Try it:** Permette di visualizzare la variante del font, in modo da semplificare
     la scelta.
 - **Remove:** Permette di rimuovere una variante sia dalla tabella che dal
-    database.
+    database. \
 Premendo **Add variant** è possibile visualizzare questo form: 
 
 ![Add variants menu](.imgReadme/addVariants.png)
