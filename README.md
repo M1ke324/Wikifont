@@ -1,17 +1,17 @@
 # Wikifont
 ## Indice
 
-1 Presentazione 2
-2 Applicazione 2
-2.1. Interfaccia dedicata alla scelta del font 3
-2.2. Interfaccia dedicata alla scelta della variante 5
-3 Dettagli implementativi 6
-3.1. Endpoint resi disponibili dal server 6
-3.2. Database 7
-3.3. Quantità di dati per il popolamento 8
+1 Presentazione \
+2 Applicazione \
+2.1. Interfaccia dedicata alla scelta del font \
+2.2. Interfaccia dedicata alla scelta della variante \
+3 Dettagli implementativi \
+3.1. Endpoint resi disponibili dal server \
+3.2. Database \
+3.3. Quantità di dati per il popolamento \
 3.4. Comunicazione tra applicazione, server
-e database 8
-3.5. Unit test 9
+e database \
+3.5. Unit test \
 
 ## 1 Presentazione
 
