@@ -54,17 +54,15 @@ seguenti funzioni:
 - **View more:** Passa all’interfaccia successiva in cui è possibile visualizzare e
     scegliere una variante del font selezionato.
 - **Remove:** Rimuove il font e tutte le varianti a lui collegate dalla tabella e dal
-    database.
+    database. \
+
 Premendo su **Add Font** è possibile visualizzare il seguente form:
 
 ![Add font menu](.imgReadme/addFont.png)
 
 Una volta riempito premendo il nuovo pulsante **add font** è possibile aggiungere
 il font sia alla tabella, in modo da visualizzarlo subito, sia al database per
-garantirne la persistenza. Se uno dei campi del form non è stato riempito,
-
-
-l’interfaccia lo segnalerà all’utente e non aggiornerà il sistema. Premendo il
+garantirne la persistenza. Se uno dei campi del form non è stato riempito, l’interfaccia lo segnalerà all’utente e non aggiornerà il sistema. Premendo il
 pulsante **Hide** è possibile rimuovere il form e continuare con il normale utilizzo
 dell’interfaccia.
 
