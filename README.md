@@ -133,6 +133,7 @@ Il database è formato da due tabelle:
 
 Qui sotto riporto la struttura del database in DDL:
 
+```
 CREATE TABLE `font` (
 `family` varchar(255) NOT NULL,
 `category` varchar(255) DEFAULT NULL,
@@ -152,6 +153,7 @@ PRIMARY KEY (`family`,`variant`),
 CONSTRAINT `FK3ddamcte27pn7iw0bptyl5b08` FOREIGN KEY (`family`)
 REFERENCES `font` (`family`)
 ) ENGINE=InnoDB
+```
 
 **3.3 Quantità di dati per il popolamento**
 
